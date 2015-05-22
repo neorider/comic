@@ -1,0 +1,1 @@
+Depricated alias of [ComicCMS](http://code.google.com/p/comiccms/)
